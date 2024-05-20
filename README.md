@@ -2,6 +2,11 @@
 Aquest document inclou el temari que pot eixir a l'examen de la 3a avaluació
 del mòdul __Entorns de Desenvolupament__ de __DAMs1__.
 
+Les unitats didàctiques estudiades són les següents:
+- __UD6:__ Documentació
+- __UD7:__ Diagrames UML
+- __UD8:__ GitFlow
+
 ## UD6: Documentació
 - Documentar codi Java amb Javadoc
 - Generar la documentació
