@@ -1,4 +1,5 @@
 # Gitflow example
+- Versió: 1.0
 Aquest document inclou el temari que pot eixir a l'examen de la 3a avaluació
 del mòdul __Entorns de Desenvolupament__ de __DAMs1__.
 
